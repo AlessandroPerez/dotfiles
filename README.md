@@ -1,4 +1,4 @@
-# Alessandro's Dotfiles
+# Dotfiles
 
 > My personal Linux configuration files to setup my environment on Arch Linux.
 
