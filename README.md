@@ -78,7 +78,7 @@ Run:
 stow *
 ```
 
-> **Warning:**  
+> [!WARNING] 
 > If you receive errors about existing files or directories, backup the conflicting configs first. For example:
 
 ```bash
@@ -96,7 +96,7 @@ Change your default shell to fish:
 chsh -s /usr/bin/fish
 ```
 
-> **Important:**  
+> [!IMPORTANT]   
 > You must log out and log back in (or reboot) for this change to take effect.
 
 ---
